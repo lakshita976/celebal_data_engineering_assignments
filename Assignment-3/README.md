@@ -50,5 +50,7 @@ Answered 5 real business questions using SQL:
 - The gap between top and bottom customers is large, indicating diverse buyer segments
 
 ## Files in This Folder
-- `superstore_clean.sql` — complete SQL script with all queries
-- `screenshots/` — query results captured from pgAdmin
+- `superstore.sql` — complete SQL script with all queries.
+- `query_results.pdf` — Query outputs with screenshots and descriptions
+- `Sample - Superstore.csv` — Original dataset used for analysis
+
