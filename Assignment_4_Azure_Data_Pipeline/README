@@ -1,0 +1,26 @@
+Assignment 4: Azure Data Factory End-to-End Pipeline
+Description:
+This project demonstrates the implementation of an end-to-end data pipeline using Microsoft Azure services, specifically Azure Storage Account and Azure Data Factory (ADF). The workflow covers data ingestion from a Blob Storage source, transformation orchestration using ADF activities, and data delivery to a target location with metadata validation.
+
+Project Workflow:
+
+Created a Resource Group in Azure Portal to organize resources.
+Set up a Storage Account and Blob Container to store the source CSV file.
+Uploaded input dataset (CSV) into Azure Blob Storage.
+Configured Azure Data Factory and explored its UI (Author, Monitor, Manage).
+Created Linked Service to connect ADF with Azure Blob Storage.
+Defined datasets for both source and destination.
+Used Get Metadata activity to validate file properties.
+Built a pipeline using Copy Data activity for data movement.
+Executed and monitored the pipeline using Debug/Trigger.
+Assigned appropriate IAM roles to ensure secure access between services.
+
+Output:
+
+Successful execution of the pipeline.
+Data transferred from Blob Storage to destination.
+Metadata validation completed successfully.
+Screenshots and detailed explanation are included in the attached PDF file.
+Conclusion
+
+This assignment provides hands-on experience in building a real-world ETL pipeline using Azure services, focusing on data integration, workflow automation, and cloud resource management.
