@@ -1,0 +1,13 @@
+Region,Category,Total_Orders,Total_Sales,Total_Profit,Avg_Profit_Margin_%,Avg_Shipping_Days
+East,Technology,535,264973.98,47462.04,12.62,3.9
+West,Furniture,707,252612.74,11504.95,9.77,3.9
+West,Technology,599,251991.83,44303.65,15.32,4.0
+West,Office Supplies,1897,220853.25,52609.85,28.58,3.9
+East,Furniture,601,208291.2,3046.17,9.24,3.9
+East,Office Supplies,1712,205516.05,41014.58,20.63,3.9
+Central,Technology,420,170416.31,33697.43,17.51,3.9
+Central,Office Supplies,1422,167026.42,8879.98,-15.89,4.1
+Central,Furniture,481,163797.16,-2871.05,-18.58,4.0
+South,Technology,293,148771.91,19991.83,18.95,3.9
+South,Office Supplies,995,125651.31,19986.39,16.32,4.0
+South,Furniture,332,117298.68,6771.21,14.17,4.0
