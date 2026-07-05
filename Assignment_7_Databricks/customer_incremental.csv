@@ -1,9 +1,0 @@
-customer_id,name,email,city,status,updated_at
-2,Anjali Verma,anjali.verma@example.com,Gurgaon,active,2026-02-15
-5,Amit Joshi,amit.joshi@example.com,Pune,inactive,2026-02-15
-8,Kiran Rao,kiran.rao@example.com,Hyderabad,inactive,2026-02-15
-13,Arjun Nair,arjun.nair@example.com,Kochi,active,2026-02-15
-14,Sneha Kapoor,sneha.kapoor@example.com,Mumbai,active,2026-02-15
-17,Ritu Bhatia,ritu.bhatia@example.com,Chandigarh,active,2026-02-15
-18,Manoj Tiwari,manoj.tiwari@example.com,Bhopal,active,2026-02-15
-19,Farah Khan,farah.khan@example.com,Nagpur,active,2026-02-15
