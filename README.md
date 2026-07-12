@@ -13,6 +13,7 @@ This repository contains all the assignments and projects completed during my Da
 | Week 5 | Data Cleaning | Handling missing values, duplicates, and data quality checks |
 | Week 6 | Spark Intro | PySpark fundamentals, transformations, and aggregations on the Sample Superstore dataset |
 | Week 7 | Databricks & Delta Lake | Incremental data processing using Delta Lake MERGE operations |
+| Week 8 | E-Commerce Analytics PipelineEnd-to-end Python and SQL pipeline covering data generation, cleaning, window functions/CTEs, cohort retention, RFM segmentation, and a CLI reporting tool|
 
 ## Repository Structure
 Each week has a dedicated folder containing the tasks completed during that period. Depending on the assignment, folders may include:
@@ -32,7 +33,7 @@ Internship-Tasks/
 ├── Week5_Data_Cleaning/
 ├── Week6_Spark_Intro/
 ├── Week7_Databricks_DeltaLake/
-│
+│── Week8_Ecommerce_systems/
 └── README.md
 ```
 
@@ -43,6 +44,9 @@ Internship-Tasks/
 - Data cleaning and quality assurance techniques
 - Distributed data processing with Apache Spark (PySpark)
 - Incremental data pipelines and upserts using Delta Lake
+- End-to-end analytics pipeline design integrating Python and SQL
+- Advanced SQL: window functions, CTEs, cohort and RFM-based customer segmentation
+- CLI tool development for automated business reporting
 
 ## Objective
 The goal of this repository is to track my internship progress, demonstrate practical implementation of data engineering concepts, and maintain a structured, well-documented record of completed assignments and projects.
